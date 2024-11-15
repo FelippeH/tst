@@ -1,0 +1,14 @@
+body {
+    background-color:rgb(61, 61, 192);
+    color:white;
+    font:normal 20pt Arial;
+}
+
+h1 {
+    color:rgb(224, 152, 18);
+}
+
+.idade-paragrafo {
+    color:red;
+    font-weight:bold;
+}
